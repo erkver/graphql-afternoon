@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "graphql-yoga": "^1.16.7",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.3"
+    "react-scripts": "2.0.3",
+    "sudo": "^1.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
